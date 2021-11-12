@@ -1,0 +1,1 @@
+draw_rectangle_primitive(10, 10, 60, 60, c_white, 1, true);
